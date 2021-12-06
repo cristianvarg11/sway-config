@@ -60,7 +60,7 @@ font:
     family: JetBrains Mono
     style: Variable Bold Italic
 
-  size: 9
+  size: 7
 
 # Inner padding
 window:
