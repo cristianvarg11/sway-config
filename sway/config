@@ -23,7 +23,7 @@ set $menu wofi --show run
 ### Output configuration
 #
 # Default wallpaper (more resolutions are available in @datadir@/backgrounds/sway/)
-output "*" background "~/.config/wallpapers/wallpaper_2.jpg" fill
+output "*" background "~/.config/wallpapers/retrowave-sunrise-reflection.jpg" fill
 
 font pango: JetBrains Mono NL 9
 

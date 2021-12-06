@@ -46,19 +46,19 @@ background_opacity: 0.98
 font:
   normal:
     family: "JetBrains Mono"
-    style: Regular
+    style: Variable Light 
 
   bold:
     family: JetBrains Mono
-    style: Bold
+    style: Variable Bold
 
   italic:
     family: JetBrains Mono
-    style: Italic
+    style: Variable Italic
 
   bold_italic:
     family: JetBrains Mono
-    style: Bold Italic
+    style: Variable Bold Italic
 
   size: 9
 

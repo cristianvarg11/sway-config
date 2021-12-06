@@ -4,6 +4,7 @@
 
 	"modules-left": [
 		"sway/workspaces",
+		"spotify"
 	],
 	"modules-center": [
 		"clock#1",
@@ -23,6 +24,14 @@
 		"format": "",
 		"tooltip": false
 	},
+"custom/spotify": {
+    "exec": "/usr/bin/python3 /home/cristian/.config/waybar/custom-modules/mediaplayer.py --player spotify",
+    "format": "{}  ",
+    "return-type": "json",
+    "on-click": "playerctl play-pause",
+    "on-scroll-up": "playerctl next",
+    "on-scroll-down": "playerctl previous"
+},
 	"custom/left-arrow-light": {
 		"format": "",
 		"tooltip": false
